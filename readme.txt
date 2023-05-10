@@ -1,6 +1,6 @@
 GREEK SERVICES MARKETPLACE
 
-Introduction: Brief overview of what a marketplace is and its purpose.
+TALA.GR SOON
 
 Benefits of a marketplace: Convenience, variety, cost-effectiveness, and ease of comparison.
 
