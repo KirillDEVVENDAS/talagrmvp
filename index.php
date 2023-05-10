@@ -12,7 +12,7 @@ $prolancer_blog_layout = !empty( $prolancer_opt['prolancer_blog_layout'] ) ? $pr
 if(!empty($_GET['blog-layout'])){
     $prolancer_blog_layout = $_GET['blog-layout'];
 }
-// http://localhost/prolancer/?blog-layout=blog_fullwidth
+
 
 ?>
 
