@@ -1,11 +1,5 @@
 <?php
-/**
- * The template for displaying 404 pages (not found)
- *
- * @link https://codex.wordpress.org/Creating_an_Error_404_Page
- *
- * @package prolancer 
- */
+
 global $prolancer_opt;
 
 $prolancer_error_title = !empty( $prolancer_opt['prolancer_error_title'] ) ? $prolancer_opt['prolancer_error_title'] : esc_html__( 'Oops! That page can&rsquo;t be found.', 'prolancer' );
