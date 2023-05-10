@@ -1,11 +1,5 @@
 <?php
-/**
- * prolancer functions and definitions
- *
- * @link https://developer.wordpress.org/themes/basics/theme-functions/
- *
- * @package prolancer
- */
+
 
 
 update_user_meta( get_current_user_id(), 'licence_activated' , '******' );
