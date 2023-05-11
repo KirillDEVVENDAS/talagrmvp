@@ -8,7 +8,7 @@ Types of marketplaces: B2B, B2C, C2C, and niche marketplaces.
 
 How a marketplace works: Matching service providers with customers and facilitating transactions.
 
-Key features of a successful marketplace: User-friendly interface, secure payment options, effective search and filtering options, and positive user reviews and ratings.
+User-friendly interface, secure payment options, effective search and filtering options, and positive user reviews and ratings.
 
 Best practices for service providers: Presenting a professional profile, offering competitive pricing, and providing excellent customer service.
 
